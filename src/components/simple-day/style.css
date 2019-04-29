@@ -1,0 +1,16 @@
+.day {
+  max-width: 600px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.day__header {
+  padding: 20px 16px 15px;
+  background: #64b5f6;
+  border-top-left-radius: 4px;
+  border-top-right-radius: 4px;
+}
+
+.meeting__descript {
+  flex-grow: 1;
+}

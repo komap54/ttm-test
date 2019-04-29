@@ -1,0 +1,14 @@
+.form__footer {
+  padding-top: 25px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.form-footer-text-auth {
+  padding-left: 10px;
+}
+
+.form-footer-text-reg {
+  padding-right: 10px;
+}
